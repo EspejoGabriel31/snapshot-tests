@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot 1`] = `
+<div>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="githubPFP.png"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Gabriel Espejo
+      </div>
+      <p
+        className="card-text"
+      >
+        Software engineering degree haver, pretend storyteller, vtuber fan
+      </p>
+    </div>
+  </div>
+</div>
+`;
